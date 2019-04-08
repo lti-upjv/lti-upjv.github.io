@@ -47,6 +47,8 @@ Il rassemble les capacités scientifiques pour assurer la maîtrise de l’éner
 
 Les travaux en cours et les projets de recherche concernent principalement les matériaux nouveaux et l’optimisation énergétique dans les domaines de la construction et des transports.
 
+---
+
 ## <span style="color:DarkBlue">NEWS</span>
 
 {% include /news.html %}
