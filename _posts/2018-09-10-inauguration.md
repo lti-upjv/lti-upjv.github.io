@@ -2,7 +2,7 @@
 layout: post
 title: Inauguration du master Industrie Numérique
 # subtitle: Trois cours vont enseigner en anglais
-image: /img/min3.png
+image: /img/1.png
 tags: [event]
 ---
 

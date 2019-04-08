@@ -2,7 +2,7 @@
 layout: post
 title: Programme is updated with course detail information
 # subtitle: Trois cours vont enseigner en anglais
-image: /img/courseProgram.jpg
+image: /img/2.png
 tags: [course]
 ---
 
