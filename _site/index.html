@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>LTI/ Laboratoire des Technologies Innovantes</title>
+
+  <meta name="author" content="Yulin ZHANG" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="LTI / Laboratoire des Technologies Innovantes - Le LTI présente une orientation scientifique sur l’utilisation efficace des ressources énergétiques pour un développement durable, dans un cadre qui s’articule autour de deux axes « Mécanique et Couplage » et « Énergies et Systèmes »." href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="LTI/ Laboratoire des Technologies Innovantes" />
+  
+
+   
+  <meta property="og:description" content="![Image of Robots]({{ site.baseurl }}/img/upjv.jpg) Créé en 2004 par le regroupement de deux équipes de recherche de Université de Picardie Jules Verne, spécialisées dans l’ingénierie des matériaux et la modélisation des systèmes complexes, le Laboratoire des Technologies Innovantes (LTI) est reconnu sous le statut d’équipe d’accueil – EA 3899. Recomposé...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/" />
+  <link rel="canonical" href="http://localhost:4000/" />
+  
+
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@robotics_insset" />
+  <meta name="twitter:creator" content="@robotics_insset" />
+
+  
+  <meta name="twitter:title" content="LTI/ Laboratoire des Technologies Innovantes" />
+  
+
+  
+  <meta name="twitter:description" content="![Image of Robots]({{ site.baseurl }}/img/upjv.jpg) Créé en 2004 par le regroupement de deux équipes de recherche de Université de Picardie Jules Verne, spécialisées dans l’ingénierie des matériaux et la modélisation des systèmes complexes, le Laboratoire des Technologies Innovantes (LTI) est reconnu sous le statut d’équipe d’accueil – EA 3899. Recomposé...">
+  
+
+  
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "CollegeOrUniversity",
+      "name": "Master Industrie Numérique",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Saint Quentin",
+        "addressRegion": "France",
+        "postalCode": "02100",
+        "streetAddress": "48 Rue d'Ostende"
+      },
+      "url": "http://www.master-robotique.fr",
+      "description": "Le Master Industrie Numérique (Master robotique) de INSSET/UPJV est une formation en initiale ou alternance. Ce Master se concentre sur la robotique avancée (robots mobiles, bras robotiques). Il traite des techniques modernes d’ingénierie des systèmes pour la modélisation, la simulation, l’optimisation, l’analyse et le contrôle d’une variété de systèmes de robotique. Il prend également en compte la modélisation et la perception de l’environnement extérieur et intérieur.",
+      "sameAs": "http://www.insset.u-picardie.fr/formations/master-genie-industriel/industrie-numerique",
+      "alumni": {
+        "@type": "OrganizationRole",
+        "alumni": {
+          "@type": "Person",
+           "name": "Yulin ZHANG",
+          "sameAs": "http://www.yulinzhang.fr"
+        }
+      }
+      
+    }
+    </script>
+    <!-- Favicon head tag -->
+  <link rel="icon" href="img/min1.ico" type="image/x-icon">
+</head>
+
+
+  <body>
+
+    
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand navbar-brand-logo" href="http://localhost:4000"><img src="/img/lti.png"/></a>
+        <a class="navbar-brand" href="http://localhost:4000">LTI / Laboratoire des Technologies Innovantes</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/">About</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/pepole">Pepole</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/research">Research</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/education">Education</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/events">Events</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/news">News</a>
+
+          </li>
+        
+        
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="/contact">Contact</a>
+
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>LTI/ Laboratoire des Technologies Innovantes</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <p><img src="/img/upjv.jpg" alt="Image of Robots" /></p>
+
+<p>Créé en 2004 par le regroupement de deux équipes de recherche de Université de Picardie Jules Verne, spécialisées dans l’ingénierie des matériaux et la modélisation des systèmes complexes, le Laboratoire des Technologies Innovantes (LTI) est reconnu sous le statut d’équipe d’accueil – EA 3899. Recomposé en 2008, il s’est articulé autour de six équipes dans le domaine des Sciences Pour l’Ingénieur.</p>
+
+<p>A partir de 2012, et dans une volonté de prendre part à la réalisation de projets pluridisciplinaires et structurants d’envergure nationale voire internationale, le LTI s’est réorganisé en regroupant certaines de ses activités pour afficher quatre thématiques réunies sous deux axes principaux qui interagissent. Ses activités de recherche s’articulent principalement autour des spécialités des sections du CNU 60, 61, 62 et 63. Représentant ainsi le domaine des sciences pour I’ ingénieur au sein de l’UPJV et dans la région Picardie, ses équipes sont présentes sur plusieurs sites : Amiens, Saint Quentin et Cuffies/Soissons.</p>
+
+<p>Le laboratoire est rattaché à l’École Doctorale en Sciences et Santé de l’UPJV (EDSS).</p>
+
+<p>Composé de plus de 51 permanents dont 41 enseignants-chercheurs, ses activités de recherche s’articulent autour de l’utilisation efficace des ressources énergétiques pour un développement durable.</p>
+
+<h2 id="recherche">Recherche</h2>
+
+<!-- <div class="row">
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/salleRobotics.jpg" alt="master robotique">
+    </a>
+  </div>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/robot4.jpg" alt="master robotique">
+    </a>
+  </div>
+</div> -->
+
+<h3 id="axe1-mécanique-et-couplage">Axe1: Mécanique et Couplage</h3>
+
+<p>Il réunit des compétences pour la formulation et la valorisation de nouveaux matériaux ainsi que pour l’étude des systèmes mécaniques et des transferts:</p>
+
+<ul>
+  <li>
+    <p>Thème 1 : Matériaux et Efficacité Énergétique (MEE)</p>
+  </li>
+  <li>
+    <p>Thème 2 : Modélisation Mécanique et Phénomènes de Transferts (MMPT)</p>
+  </li>
+</ul>
+
+<h3 id="axe-2--Énergies-et-systèmes">Axe 2 : Énergies et Systèmes</h3>
+
+<p>Il rassemble les capacités scientifiques pour assurer la maîtrise de l’énergie dans un système multi sources:</p>
+
+<ul>
+  <li>
+    <p>Thème 3 : Systèmes Intelligents (SI)</p>
+  </li>
+  <li>
+    <p>Thème 4 : Énergie Électrique et Systèmes Associés (EESA)</p>
+  </li>
+</ul>
+
+<p>Les travaux en cours et les projets de recherche concernent principalement les matériaux nouveaux et l’optimisation énergétique dans les domaines de la construction et des transports.</p>
+
+<h2 id="news"><span style="color:DarkBlue">NEWS</span></h2>
+
+<div class="posts-list">
+    
+    <article class="post-preview">
+      <a href="/2018-09-10-inauguration/">
+        <h2 class="post-title">Inauguration du master Industrie Numérique</h2>
+  
+        
+      </a>
+  
+      <p class="post-meta">
+        Posted on September 10, 2018
+      </p>
+  
+      <div class="post-entry-container">
+        
+        <div class="post-image">
+          <a href="/2018-09-10-inauguration/">
+            <img src="/img/min3.png" />
+          </a>
+        </div>
+        
+        <div class="post-entry">
+          Inauguration du master Industrie Numérique à l’INSSET en présence du Président de l’UPJV, du Maire de Saint Quentin, Thierry Favrez, Directeur d’Apegelec Industrie.
+
+
+  
+    
+      
+    
+  
+    
+    
+      
+    
+  
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+
+
+
+          
+          
+            <a href="/2018-09-10-inauguration/" class="post-read-more">[Read&nbsp;More]</a>
+          
+        </div>
+      </div>
+  
+      
+      <div class="blog-tags">
+        Tags:
+        
+          event
+        
+      </div>
+      
+  
+     </article>
+    
+    <article class="post-preview">
+      <a href="/2018-07-11-programme-updated/">
+        <h2 class="post-title">Programme is updated with course detail information</h2>
+  
+        
+      </a>
+  
+      <p class="post-meta">
+        Posted on July 11, 2018
+      </p>
+  
+      <div class="post-entry-container">
+        
+        <div class="post-image">
+          <a href="/2018-07-11-programme-updated/">
+            <img src="/img/courseProgram.jpg" />
+          </a>
+        </div>
+        
+        <div class="post-entry">
+          The programme is updated with course detail information. You could find more information about each course.
+
+          
+          
+        </div>
+      </div>
+  
+      
+      <div class="blog-tags">
+        Tags:
+        
+          course
+        
+      </div>
+      
+  
+     </article>
+    
+    <article class="post-preview">
+      <a href="/2018-04-24-course-anglais/">
+        <h2 class="post-title">Cours en anglais</h2>
+  
+        
+        <h3 class="post-subtitle">
+          Trois cours vont enseigner en anglais
+        </h3>
+        
+      </a>
+  
+      <p class="post-meta">
+        Posted on April 24, 2018
+      </p>
+  
+      <div class="post-entry-container">
+        
+        <div class="post-image">
+          <a href="/2018-04-24-course-anglais/">
+            <img src="/img/icon.jpg" />
+          </a>
+        </div>
+        
+        <div class="post-entry">
+          Trois cours vont enseigner en anglais
+
+          
+          
+        </div>
+      </div>
+  
+      
+      <div class="blog-tags">
+        Tags:
+        
+          course
+        
+      </div>
+      
+  
+     </article>
+    
+  </div>
+
+<p><!--  --></p>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+          
+		  
+          <li>
+            <a href="https://twitter.com/robotics_insset" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+          </li>
+          
+	  
+      
+		  
+          <li>
+            <a href="mailto:gf.lti@u-picardie.fr" title="Email me">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Email me</span>
+            </a>
+          </li>
+          
+		  
+		  
+		  
+      
+      
+      
+      
+      
+		  
+        </ul>
+        <p class="copyright text-muted">
+		  Yulin ZHANG
+		  &nbsp;&bull;&nbsp;
+		  2019
+
+		  
+		  &nbsp;&bull;&nbsp;
+		  <a href="http://localhost:4000">lti-picardie.fr</a>
+		  
+	    </p>
+	        <!-- Please don't remove this, keep my open source work credited :) -->
+		<!-- <p class="theme-by text-muted">
+		  Theme by
+		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+		</p> -->
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/js.cookie.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+    
+
+  </body>
+</html>

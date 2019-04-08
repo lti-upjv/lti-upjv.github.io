@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LTI / Laboratoire des Technologies Innovantes</title>
+    <description>Le LTI présente une orientation scientifique sur l’utilisation efficace des ressources énergétiques pour un développement durable, dans un cadre qui s’articule autour de deux axes « Mécanique et Couplage » et « Énergies et Systèmes ».</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Inauguration du master Industrie Numérique</title>
+        <description>
+          
+          Inauguration du master Industrie Numérique à l’INSSET en présence du Président de l’UPJV, du Maire de Saint Quentin, Thierry Favrez, Directeur d’Apegelec Industrie.
+
+
+  
+    
+      
+    
+  
+    
+    
+      
+    
+  
+  
+    
+      
+    
+  
+  
+    
+      
+    
+  
+
+
+
+        </description>
+        <pubDate>Mon, 10 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018-09-10-inauguration/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-09-10-inauguration/</guid>
+      </item>
+    
+      <item>
+        <title>Programme is updated with course detail information</title>
+        <description>
+          
+          The programme is updated with course detail information. You could find more information about each course.
+
+        </description>
+        <pubDate>Wed, 11 Jul 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018-07-11-programme-updated/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-07-11-programme-updated/</guid>
+      </item>
+    
+      <item>
+        <title>Cours en anglais</title>
+        <description>
+          Trois cours vont enseigner en anglais - 
+          Trois cours vont enseigner en anglais
+
+        </description>
+        <pubDate>Tue, 24 Apr 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018-04-24-course-anglais/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-04-24-course-anglais/</guid>
+      </item>
+    
+  </channel>
+</rss>
