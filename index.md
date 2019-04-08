@@ -14,7 +14,7 @@ Le laboratoire est rattaché à l’École Doctorale en Sciences et Santé de l�
 
 Composé de plus de 51 permanents dont 41 enseignants-chercheurs, ses activités de recherche s’articulent autour de l’utilisation efficace des ressources énergétiques pour un développement durable.
 
-## Recherche
+<!-- ## Recherche -->
 
 <!-- <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
