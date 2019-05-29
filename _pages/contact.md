@@ -7,33 +7,15 @@ permalink: contact.html
 
 
  
-### Responsable des études  Master
+### Le Directeur 
+Prof. Hassen Beji: hassen.beji@u-picardie.fr
 
-Madame Yulin ZHANG
+### Le Secrétaire 
+Valerie Messiaen: gf.lti@u-picardie.fr
 
-Tel: 0033+ (0)3 23 62 89 61
-
-Mail : yulin.zhang@u-picardie.fr 
-
-
-### Scolarité
-
-Madame Véronique BASQUIN
-
-Tél : 03 23 62 89 56
-
-Mail : scolarite@insset.u-picardie.fr 
-
- 
-### Formation Continue et Apprentissage
-
-Madame Noëlle HETUIN
-
-Tél : 03 23 62 89 66
-
-Mail : formation.continue@insset.u-picardie.fr 
 
 
 ## Localisation
+Université de Picardie Jules Verne - IUT d'Amiens Avenue des Facultés - Le Bailly 80 025 Amiens Cedex 1 
 
-Saint-Quentin est une ville Art Déco entre Lille, Paris et Amiens
+Tél/Fax : +33 (0)3 22 53 40 38

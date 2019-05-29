@@ -28,14 +28,16 @@ description: Le LTI présente une orientation scientifique sur l’utilisation e
 
 # List of links in the navigation bar
 navbar-links:
-  About: ''
-  Pepole: 'pepole'
-  Research: 'research'
-  Education: 'education'
-  Events: 'events'
-  News: 'news'
-  Contact: 'contact'
-  # Master Robotique: "master"
+  Présentation: ''
+  Recherche:
+  - Equipe MHT: "mht"
+  - Equipe MIM: "mim"
+  - Equipe SI: "si"
+  - Equipe EESA: "eesa"
+  Formations: 'education'
+  Evénements: 'events'
+  Actualités: 'news'
+  Contacte: 'contact'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
