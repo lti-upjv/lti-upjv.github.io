@@ -6,14 +6,13 @@ use-site-title: true
 ---
 
 - [Equipe](#equipe)
-  - [Coordonnateur](#coordonnateur)
-  - [Personnel Permanent](#personnel-permanent)
-  - [Doctorants](#doctorants)
 - [Projets](#projets)
+  - [Projets en Cours](#projets-en-cours)
+  - [Projets Archivés](#projets-archiv%C3%A9s)
 
 ## Equipe
 
-### Coordonnateur
+**Coordonnateur**
 
  <div class="row">
     <div class="col-xs-8 col-sm-4 col-lg-4">
@@ -31,7 +30,7 @@ laurent.delahoche@u-picardie.fr</p>
     </div>
 </div>
 
-### Personnel Permanent
+**Personnel Permanent**
 
  <div class="row">
     <div class="col-xs-8 col-sm-4 col-lg-4">
@@ -133,7 +132,7 @@ mohamed.hamzaoui@u-picardie.fr</p>
 </div>
 </div>
 
-### Doctorants
+**Doctorants**
 
  <div class="row">
     <div class="col-xs-8 col-sm-4 col-lg-4">
@@ -151,4 +150,28 @@ Date d’inscription : 2011</p>
     </div>
 </div>
 
+---
+
 ## Projets
+
+### Projets en Cours
+
+### Projets Archivés
+
+**Assistance Robotisée (HTSC)**
+
+Il est intitulé “mise en œuvre technique et analyse psychologique d’une assistance robotisée maître/esclave pour les personnes à mobilité réduite”. Il a pour objectif de concevoir et de réaliser une aide robotisée originale pour les personnes lourdement handicapées
+
+Années : 2002 / 2006 <br/>
+Financement : Région / ETAT <br/>
+Montant : 300K€ <br/>
+Partenaire : Groupe Hopale, centre
+
+**AVISO II**
+
+La thématique principale de ce projet est la commande référencée vision pour l’assistance à la préhension d’objet grâce au bras Manus. Le cadre est donc l’assistance technique robotisée pour les handicapés. Notre mission a consisté à concevoir (design, réalisation et logiciel informatique) un système de vision omnidirectionnelle catadioptrique adapté à la désignation (simple clic) d’objets en vue d’un asservissement total de l’assistance.
+
+Années : 2006 / 2007<br/>
+Financement : Fondation<br/>
+Montant : 90K€<br/>
+Partenaire : CEA, APPROCHE
