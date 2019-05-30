@@ -6,6 +6,7 @@ use-site-title: true
 ---
 
 - [Equipe](#equipe)
+- [</div>](#div)
 - [Projets](#projets)
   - [Projets en Cours](#projets-en-cours)
   - [Projets Archivés](#projets-archiv%C3%A9s)
@@ -14,7 +15,7 @@ use-site-title: true
 
 **Coordonnateur**
 
- <div class="row">
+ <div class="row justify-content-start"  >
     <div class="col-xs-8 col-sm-4 col-lg-4">
       <img
         class="rounded-circle"
@@ -32,7 +33,8 @@ laurent.delahoche@u-picardie.fr</p>
 
 **Personnel Permanent**
 
- <div class="row">
+<div class="container">
+ <div class="row justify-content-start">
     <div class="col-xs-8 col-sm-4 col-lg-4">
       <img
         class="rounded-circle"
@@ -131,10 +133,11 @@ MCF 61ième section<br/>
 mohamed.hamzaoui@u-picardie.fr</p>
 </div>
 </div>
-
+</div>
 **Doctorants**
 
- <div class="row">
+<div class="container">
+ <div class="row justify-content-start">
     <div class="col-xs-8 col-sm-4 col-lg-4">
       <img
         class="rounded-circle"
@@ -149,7 +152,7 @@ Financement : Contrats d’enseignant contractuel<br/>
 Date d’inscription : 2011</p>
     </div>
 </div>
-
+</div>
 ---
 
 ## Projets
